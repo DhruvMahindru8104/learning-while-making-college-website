@@ -1,0 +1,2 @@
+1- how to customize acceternity ui components css through ! sign 
+2- how to customize acceternity ui via props 

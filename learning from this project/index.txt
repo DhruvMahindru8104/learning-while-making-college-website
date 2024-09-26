@@ -1,0 +1,6 @@
+1- how to design a component so that you have full control .(using comments technique)
+2- using html ,flexbox for skelton and layouts ( aaj mujhe acha sa navbar ka bna bnaya component khi nhi mil rha tha isliye meine html ka use kiya ) and then give styling through tailwind and give functionality through shadcn and etc libraries. 
+3- take a component level inspiration from other websites.
+4- use react icons for icons . (react icons mein kisi bhi icon ka ek prop hota hai jiska name size hota hai . isse hum kisi bhi icon ka size change kr skte <Fabook size={100}/) . 
+5- if you are using pnpm then always add packages through pnpm not npm .
+6- website kaise design kre ( the right approach to build a website)

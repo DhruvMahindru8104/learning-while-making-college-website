@@ -1,0 +1,2 @@
+1- dekho agr npm use kr rhe ho to npm se add kro packages like npm install react-icons
+2- agr pnpm use kr rhe ho to pnpm se add kro packages like pnpm add react-icons 

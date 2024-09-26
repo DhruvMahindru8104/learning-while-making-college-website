@@ -1,0 +1,4 @@
+dekho agr aapko koi built in component block na mile to is time pe html ka use kro . 
+
+- aaj mereko bhi koi acha sa navbar nhi mil rha tha to is time pe meine html ka use krke ek list bnwayi chatgpt se and tailwind css , flexbox ,shadcn,ka use krke ek bhut acha navbar bnaya . 
+so main thing is this - jb bhi koi already built block nhi milta tb html and flexbox ka use krke  basic skelton bnao component ka and then uske baad flexbox,tailwind,flexbox and shadcn component ka use krke us component k skelton ko style and functionality do.

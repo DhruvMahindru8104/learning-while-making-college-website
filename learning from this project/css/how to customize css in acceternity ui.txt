@@ -1,0 +1,27 @@
+1- dekho agr aap acceternity ui k component mein extra classes add krne ki koshish kroge to vo classes nhi hongi modify . 
+example - 
+   (<BentoGrid className="max-w-4xl mx-auto">
+      {items.map((item, i) => (
+        <BentoGridItem
+          key={i}
+          title={item.title}
+          description={item.description}
+          header={item.header}
+          icon={item.icon}
+          className='bg-blue-500` /> // aisa likhne se aapke acceternity ui k component ka background color blue nhi hoga. 
+      ))}
+    </BentoGrid>)
+
+2- iska ilaaj hai ki force tailwind css ka use kro . hr ek tailwind css k pehle ! mark lgalo 
+example- 
+   (<BentoGrid className="max-w-4xl mx-auto">
+      {items.map((item, i) => (
+        <BentoGridItem
+          key={i}
+          title={item.title}
+          description={item.description}
+          header={item.header}
+          icon={item.icon}
+          className='!bg-transparent' /> // aisa krne se hojayega aapka background transparent 
+      ))}
+    </BentoGrid>)

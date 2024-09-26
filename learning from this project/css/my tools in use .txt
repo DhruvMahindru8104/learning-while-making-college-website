@@ -1,0 +1,16 @@
+1- react icons- for icons
+2- shadcn - for functionality
+3-tailblocks,flowbite - for structure(customize it because its pure html and tailwind)
+4- acceternity ui - for animation built in components (you can also customize it meine likha hua hai kaise krna)
+5- flowbitegpt and chatgpt - to find solutions of the problem you might face
+6- tailwind css- for knowing more properties of tailwind css
+7- html to jsx converter . 
+
+// ab dekh ek acha developer hota hai vo kbhi bhi yeh two things nhi krta 
+1- direct copy paste (like aapne tailblocks se ek component uthaya aur use direct copy kr diya apne project mein) koi customization na krna .
+2- and second hai sb kuch khud banana
+
+ab jo best approach hai 
+1- aapko koi tailblocks pasand aaya ( simple sa navbar . ab same to same cheez apne project mein chipkane se acha hai use aur cheezon k sath customize kro )
+2- example- aapko ek simple navbar bnana hai , aapne tailblocks se utha liya ek navbar and copy kr liya apne project mein (ab aap aur use customize kro like shadcn ka light mode dark mode navbar k sath milado , acceternity ui ka animated button lgalo, aur jo cheez aapko navbar(tailblocks se copy) mein achi nhi lgi use htado ) as it improve creativity 
+- in simple hr ek tool mein scamper ka use kro , as it improve creativity and quick website making

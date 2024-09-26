@@ -1,0 +1,4 @@
+1- dekho vaise to apni imagination ka use kro vo acha hai . 
+2- pr dusri websites se bhi component level inspiration lo . 
+3- what is component level inspiration -> dekho ismein aap sb kuch kisi website se nhi uthate ismein aap sirf ek hi component ki inspiration uthate ho . like mujhe navbar koi acha sa nhi mil rha tha to meine shadcn k navbar se inspiration leke ek navbar bnaya . 
+4- remember same to same component bnane se acha hai . sirf skelton bnao component ka inspiration leke and change bhi leke aao jaise meine navbar same to same shadcn jaise navbar jaisa nhi bnaya bs inspiration li and thodi functionality khud ki add ki .
